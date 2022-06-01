@@ -50,10 +50,10 @@ logo = """
 
 """
 
-#Main Board Jaha Sy Script Start Hota 
+
 def main():
     os.system('clear')
-    print python2 chughata.py
+    print ,, 
     print ''
     print ' [1].\x1b[1;96m Start Cloning'
     print ' \033[0m[2].\x1b[1;96m Follow In Fb Or Yt '
@@ -168,9 +168,9 @@ def token():
 
 #-----------------------------
 
-#DONT EDIT THIS SECTION
-#OTHERWISE YOUR SCRIPT WILL
-#BE LOL & FULLOF VIRUS 
+#DONT 
+#
+
 
 def menu():
     os.system('clear')
@@ -432,7 +432,7 @@ def crack_select():
     raw_input(' \x1b[1;92m Press Enter To Go Back ! ')
     menu()
     
-#Thanks TechQaiser & Also SyedZada Bro
+
 
 if __name__ == '__main__':
     main()
