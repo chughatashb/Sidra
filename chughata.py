@@ -53,7 +53,7 @@ logo = """
 #Main Board Jaha Sy Script Start Hota 
 def main():
     os.system('clear')
-    print logo
+    print python2 chughata.py
     print ''
     print ' [1].\x1b[1;96m Start Cloning'
     print ' \033[0m[2].\x1b[1;96m Follow In Fb Or Yt '
